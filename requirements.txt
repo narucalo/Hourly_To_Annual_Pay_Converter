@@ -1,0 +1,2 @@
+# This file lists all the dependencies for the Hourly to Annual Pay Converter project.
+# As of now, all required libraries are included in the standard Python library.
